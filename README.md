@@ -24,6 +24,8 @@ This repository contains the code and resources for a Convolutional Neural Netwo
    ```
    The `requirements.txt` file lists all the necessary dependencies for the project, including TensorFlow, Keras, NumPy, and Pandas.
 
+   Link to the FRACATLAS Database: https://figshare.com/articles/dataset/The_dataset/22363012
+
 #### Running the Project
 
 1. Navigate to the project directory.
